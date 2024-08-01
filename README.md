@@ -27,5 +27,5 @@
   Run the Script: Execute the main script to start the system.
   Capture Attendance: The system will automatically recognize faces and log their attendance.
 
-##🤝 Contributions
+## 🤝 Contributions
 Feel free to contribute by opening issues or submitting pull requests. Let's make this project even better together! 💪
