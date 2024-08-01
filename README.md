@@ -10,28 +10,17 @@
   
 ## 🛠️ Installation
   Clone the repository:
+  git clone https://github.com/Vidhan-152/attendance-system.git
 
-  bash
-  Copy code
-  git clone https://github.com/yourusername/attendance-system-opencv.git
-  cd attendance-system-opencv
-  Install the required libraries:
+  For the serviceAccountkey.json, you have to make your own account at firebase console. Mine will not work for you!
   
-  bash
-  Copy code
-  pip install -r requirements.txt
-  Run the system:
-  
-  bash
-  Copy code
-  python attendance_system.py
 
-  
 ## 📂 Project Structure
   main.py - Main script to run the attendance system.
   requirements.txt - List of dependencies.
   database - Directory containing images of faces to be recognized.
   firebase - File where attendance records are stored and in live time.
+  
   
 ## 👩‍💻 How It Works
   Add Faces: Place images of individuals in the database.
